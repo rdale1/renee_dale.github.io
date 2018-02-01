@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 #permalink: /talks/2012-03-01-talk-1
 venue: "StatFest, Emory University"
-date: 2017
+date: 2017-08-01
 location: "Atlanta, Georgia"
 ---
 
