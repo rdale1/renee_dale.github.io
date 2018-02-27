@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Guest Instructor"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "LSU Biology"
 date: 2015-01-01
-location: "City, Country"
+location: "Baton Rouge, LA"
 ---
+Duties: Development of materials to teach programming and computational techniques such as curve fitting, parameter optimization, data sorting and handling
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Curriculum
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+I assisted in conceptual course material development (differential equations, cell biology) and was completely responsible for the technical, programming materials for the course. My lecture materials are available at iambecomecomputational.com and my code examples at https://github.com/rdale1/Matlab-Programming-Examples 
