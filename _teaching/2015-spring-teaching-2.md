@@ -2,7 +2,7 @@
 title: "Guest Instructor"
 collection: teaching
 type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-1
 venue: "LSU Biology"
 date: 2015-01-01
 location: "Baton Rouge, LA"
