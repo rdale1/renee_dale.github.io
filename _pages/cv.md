@@ -27,9 +27,9 @@ Appointments
 ======
 * Teaching Assistant 2013 - 2018 
 
->BIOL 1208 Introductory Biology Lab I & BIOL 1209 Lab II				    LSU
->BIOL 1005 Introductory Biology Lab for Non Majors				    	    LSU
- >   Duties: Development of teaching materials and in-class activities, quiz and exam writing, leading student experiments in inquiry-based lab setting 
+>  BIOL 1208 Introductory Biology Lab I & BIOL 1209 Lab II				    
+BIOL 1005 Introductory Biology Lab for Non Majors				    	    
+Duties: Development of teaching materials and in-class activities, quiz and exam writing, leading student experiments in inquiry-based lab setting 
 
 * Plantae Fellow							                                  	 2017 – 2018
 
