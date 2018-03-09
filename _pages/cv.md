@@ -33,27 +33,27 @@ Duties: Development of teaching materials and in-class activities, quiz and exam
 
 * Plantae Fellow							                                  	 2017 – 2018
 
-	 >Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
+> Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
     
 * Guest Instructor									                                Fall 2017 
 
- BIOL 7800 Mathematical Modeling 							                  LSU
+	BIOL 7800 Mathematical Modeling 							                  LSU
   
 * Research Assistant 									                              Summer 2017 
 
-  Mathematics 										                                LSU
+  	Mathematics 										                                LSU
   
 * Research Assistant 							                                  Spring & Summer 2017 
 
-  Biological Sciences						                        			    LSU
+  	Biological Sciences						                        			    LSU
   
 * Supplemental Instruction Leader 		             					        Fall 2012 
 
-  Biology 1001 						                                        Center for Academic Success, LSU
+  	Biology 1001 						                                        Center for Academic Success, LSU
   
 * Undergraduate Researcher 						                              Aug 2010 – Jan 2012 
 
-  Environmental Engineering 								                      LSU
+  	Environmental Engineering 								                      LSU
 
 Publications
 ======
