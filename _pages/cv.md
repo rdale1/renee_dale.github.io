@@ -33,7 +33,7 @@ Duties: Development of teaching materials and in-class activities, quiz and exam
 
 * Plantae Fellow							                                  	 2017 – 2018
 
-	  Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
+	 >Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
     
 * Guest Instructor									                                Fall 2017 
 
