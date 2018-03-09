@@ -25,26 +25,34 @@ Louisiana State University
 
 Appointments
 ======
-* Teaching Assistant *2013 - 2018 *
+* Teaching Assistant 2013 - 2018 
+
 >BIOL 1208 Introductory Biology Lab I & BIOL 1209 Lab II				    LSU
 >BIOL 1005 Introductory Biology Lab for Non Majors				    	    LSU
  >   Duties: Development of teaching materials and in-class activities, quiz and exam writing, leading student experiments in inquiry-based lab setting 
 
 * Plantae Fellow							                                  	 2017 – 2018
+
 	  Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
     
 * Guest Instructor									                                Fall 2017 
+
  BIOL 7800 Mathematical Modeling 							                  LSU
   
 * Research Assistant 									                              Summer 2017 
+
   Mathematics 										                                LSU
   
 * Research Assistant 							                                  Spring & Summer 2017 
+
   Biological Sciences						                        			    LSU
   
 * Supplemental Instruction Leader 		             					        Fall 2012 
+
   Biology 1001 						                                        Center for Academic Success, LSU
+  
 * Undergraduate Researcher 						                              Aug 2010 – Jan 2012 
+
   Environmental Engineering 								                      LSU
 
 Publications
