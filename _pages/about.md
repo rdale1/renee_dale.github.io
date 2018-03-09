@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-** Current Research Interests**
+Current Research Interests
 ====================================
-![Simulation](/images/waow.jpg)
-I am interested in studying plant cell biology using mathematical modeling. 
 
-I am also interested in parameter optimization techniques. 
+I am interested in studying plant cell biology using mathematical modeling and parameter optimization techniques. 
 
-I am also interested in mathematical biology education. 
+I am also interested in [mathematical biology education] (https://rdale1.github.io/teaching/). 
