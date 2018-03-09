@@ -1,9 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+** Current Research Interests**
+====================================
+![Simulation](/images/waow.jpg)
+I am interested in studying plant cell biology using mathematical modeling. 
+
+I am also interested in parameter optimization techniques. 
+
+I am also interested in mathematical biology education. 
