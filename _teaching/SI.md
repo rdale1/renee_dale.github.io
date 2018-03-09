@@ -2,7 +2,7 @@
 title: "Supplemental Instruction Leader"
 collection: teaching
 type: "Undergraduate Biology"
-permalink: /teaching/
+permalink: /teaching/si
 venue: "Louisiana State University"
 date: 2012-01-01
 location: "Baton Rouge, LA"
