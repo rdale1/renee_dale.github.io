@@ -3,11 +3,10 @@ permalink: /research/
 title: "Research"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+
 ---
-** Current Research Interests**
+**Current Research Interests**
 ====================================
 ![Simulation](/images/waow.jpg)
 I am interested in studying plant cell biology using mathematical modeling. 
