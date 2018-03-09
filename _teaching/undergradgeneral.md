@@ -2,7 +2,7 @@
 title: "Undergraduate Education at LSU"
 collection: teaching
 type: "Overview"
-permalink: /teaching/
+permalink: /teaching/ugrad
 venue: "LSU Biology"
 date: 2015-01-01
 location: "Baton Rouge, LA"
