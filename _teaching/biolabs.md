@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Biology"
-permalink: /teaching/
+permalink: /teaching/biolab
 venue: "Louisiana State University"
 date: 2013-01-01
 location: "Baton Rouge, LA"
