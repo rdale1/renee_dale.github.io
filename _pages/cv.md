@@ -13,34 +13,34 @@ Education
 ======
 Louisiana State University								
 Ph.D. in Biological Sciences								  	2019
-Dissertation: Model Scaling from Protein Subnetworks to Populations in Mathematical Biology
+>*Dissertation: Model Scaling from Protein Subnetworks to Populations in Mathematical Biology*
 M. Stat. in Applied Statistics									2019
-Thesis: Bayesian Estimate of the Parameters of a Stochastic Differential Model of HIV Incidence in the United States
+>*Thesis: Bayesian Estimate of the Parameters of a Stochastic Differential Model of HIV Incidence in the United States*
 M.S. in Cell Biology									        	2015
-	Thesis: Mathematical Model of the Split Firefly Luciferase Assay		
+	>*Thesis: Mathematical Model of the Split Firefly Luciferase Assay	*	
 B.S. in Biological Sciences							    		2013
 B.A. in Philosophy									          	2013
-Thesis: Empathy, Altruism, and Prosocial Behavior in Humans and Primates
+>*Thesis: Empathy, Altruism, and Prosocial Behavior in Humans and Primates*
 
 
 Appointments
 ======
 Teaching Assistant	 	 			          				                    2013 - 2018 
-BIOL 1208 Introductory Biology Lab I & BIOL 1209 Lab II				    LSU
-BIOL 1005 Introductory Biology Lab for Non Majors				    	    LSU
-    Duties: Development of teaching materials and in-class activities, quiz and exam writing, leading student experiments in inquiry-based lab setting 
+>*BIOL 1208 Introductory Biology Lab I & BIOL 1209 Lab II				    LSU
+>BIOL 1005 Introductory Biology Lab for Non Majors				    	    LSU
+ >   Duties: Development of teaching materials and in-class activities, quiz and exam writing, leading student experiments in inquiry-based lab setting *
 
 Plantae Fellow							                                  	 2017 – 2018
-	  Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network 
+>	  *Duties: Development of materials for Plantae, particularly Big data and Computational Infrastructure network *
     
 Guest Instructor									                                Fall 2017 
-  BIOL 7800 Mathematical Modeling 							                  LSU
+ > *BIOL 7800 Mathematical Modeling 							                  LSU*
   
 Research Assistant 									                              Summer 2017 
-  Mathematics 										                                LSU
+  >Mathematics 										                                LSU
   
 Research Assistant 							                                  Spring & Summer 2017 
-  Biological Sciences						                        			    LSU
+ > Biological Sciences						                        			    LSU
   
 Supplemental Instruction Leader 		             					        Fall 2012 
   Biology 1001 						                                        Center for Academic Success, LSU
