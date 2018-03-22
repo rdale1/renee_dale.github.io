@@ -10,4 +10,4 @@ redirect_from:
 
 I am interested in studying plant cell biology using mathematical modeling and parameter optimization techniques. 
 
-I am also interested in [mathematical biology education] (https://rdale1.github.io/teaching/). 
+I am also interested in [mathematical biology education](https://rdale1.github.io/teaching/). 
