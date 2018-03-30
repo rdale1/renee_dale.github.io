@@ -15,5 +15,7 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+* Blog post: [Introduction to Bayesian Statistics, Part 1](https://iambecomecomputational.wordpress.com/2018/03/30/introduction-to-bayesian-statistics-part-1/)
+* New preprint: [Hierarchical modeling of the effect of pre-exposure prophylaxis on HIV in the US](https://www.biorxiv.org/content/early/2018/03/22/285940)
 * Check out my [interview with Dr. Huo of the University of Florida](https://community.plantae.org/article/4938546103625713555/interview-bayesian-statistics-for-meta-analysis-of-genomic-data) on using Bayesian statistics for meta-analysis of genomic data
 * I'm going to [NextProf 2018 at University of Michigan](https://sites.lsa.umich.edu/nextprof-science/about-nextprof/)!
