@@ -15,7 +15,7 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
-# March #
+### March ###
 * [New simulation](https://rdale1.shinyapps.io/wischu_biol2018/ ) illustrating the relationship between available co2, absorption spectra, light energy, and photosynthesis
 * My [2018 Sigma Xi Research Showcase](https://rdaleresearch.tumblr.com/) presentation is live! 
 * I was featured in the [April newsletter of the LSU Women in Science group](rdale1.github.io/publications/2018AprilNewsletter.pdf)! 
