@@ -15,6 +15,7 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+* My [2018 Sigma Xi Research Showcase](https://rdaleresearch.tumblr.com/) presentation is live! 
 * I was featured in the [April newsletter of the LSU Women in Science group](rdale1.github.io/publications/2018AprilNewsletter.pdf)! 
 * Blog post: [Introduction to Bayesian Statistics, Part 1](https://iambecomecomputational.wordpress.com/2018/03/30/introduction-to-bayesian-statistics-part-1/)
 * New preprint: [Hierarchical modeling of the effect of pre-exposure prophylaxis on HIV in the US](https://www.biorxiv.org/content/early/2018/03/22/285940)
