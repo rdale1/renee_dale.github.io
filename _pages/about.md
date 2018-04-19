@@ -15,6 +15,10 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### April ###
+* I will be attending [SMB2018](https://www.smb2018.org/) thanks to being awarded the Landhal Travel Grant! 
+* Looking forward to attending a Women in Math networking event at [NIMBioS](http://www.nimbios.org/tutorials/TT_SpatialData)! 
+
 ### March ###
 * [New simulation](https://rdale1.shinyapps.io/wischu_biol2018/ ) illustrating the relationship between available co2, absorption spectra, light energy, and photosynthesis
 * My [2018 Sigma Xi Research Showcase](https://rdaleresearch.tumblr.com/) presentation is live! 
