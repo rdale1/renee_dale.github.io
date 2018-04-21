@@ -16,6 +16,7 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 ## Recent Activities ##
 ### April ###
+* I received the LSU McDaniel Scholarship to attend ASPB 2018! 
 * I will be attending [SMB2018](https://www.smb2018.org/) thanks to being awarded the Landhal Travel Grant! 
 * Looking forward to attending a Women in Math networking event at [NIMBioS](http://www.nimbios.org/tutorials/TT_SpatialData)! 
 
