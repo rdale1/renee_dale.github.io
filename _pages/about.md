@@ -15,6 +15,9 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### May ###
+* I will be presenting my research on my [ODE-generating algorithm](https://scholarscompass.vcu.edu/bamm/2018/thursday/26) at BAMM! later this month! 
+
 ### April ###
 * I received the LSU McDaniel Scholarship to attend ASPB 2018! 
 * I will be attending [SMB2018](https://www.smb2018.org/) thanks to being awarded the Landhal Travel Grant! 
