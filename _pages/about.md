@@ -15,6 +15,9 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### June ###
+* I received the Society for Mathematical Biology Education and Outreach Grant to develop my video game: ["Video game for the promotion of plant biology and quantitative skill development in high school students"](https://youtu.be/FfuvwlxjfYs)! 
+
 ### May ###
 * I will be presenting my research on my [ODE-generating algorithm](https://scholarscompass.vcu.edu/bamm/2018/thursday/26) at BAMM! later this month! 
 
