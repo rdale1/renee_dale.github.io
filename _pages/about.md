@@ -16,6 +16,8 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 ## Recent Activities ##
 ### June ###
+* My proposed session for the Association for Women in Math research symposium in April was accepted! It will be a collaborative speed-dating session at the intersection of math and biology!
+* I will be chairing the Epidemiology session at SMB next Tuesday! 
 * I received the Society for Mathematical Biology Education and Outreach Grant to develop my video game: ["Video game for the promotion of plant biology and quantitative skill development in high school students"](https://youtu.be/FfuvwlxjfYs)! 
 
 ### May ###
