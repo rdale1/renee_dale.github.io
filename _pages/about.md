@@ -15,6 +15,14 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### August ###
+* I received a travel fellowship to attend the [European Student Council Symposium](http://escs.iscbsc.org/) in Athens, Greece next month! 
+* I will be presenting at [Finding Your Inner Modeler year 2 this month](https://pages.wustl.edu/haswell/finding-your-inner-modeler/fyim-ii)
+
+### July ###
+* My article on using [Bayesian statistics to estimate parameters for a system of SDEs was accepted](https://doi.org/10.1371/journal.pone.0200126) 
+* I received funding from LSU Biograds to validate my [ODE-generating algorithm](https://scholarscompass.vcu.edu/bamm/2018/thursday/26)
+
 ### June ###
 * My proposed session for the Association for Women in Math research symposium in April was accepted! It will be a collaborative speed-dating session at the intersection of math and biology!
 * I will be chairing the Epidemiology session at SMB next Tuesday! 
