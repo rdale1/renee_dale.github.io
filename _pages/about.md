@@ -15,6 +15,10 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### March ###
+* I will be leading my workshop [Mathematical Plant Biology: A Collaborative Session](https://web.cvent.com/event/5d8b3b79-86e5-4a7c-bdcc-32e46df1c2ed/websitePage:276b522d-4142-4f2b-89c2-5c1d6c15bbc8) at [Plant Biology 2019](https://plantbiology.aspb.org/)
+* I will be hosting my special session [Current Challenges in Mathematical Biology](https://drive.google.com/file/d/11LDmbNcjOWM0zFOcnzkR7En56_BeI6fh/view) att the Association for Women in Math [Research Symposium 2019](https://awm-math.org/meetings/awm-research-symposium/) next month 
+
 ### August ###
 * I received a travel fellowship to attend the [European Student Council Symposium](http://escs.iscbsc.org/) in Athens, Greece next month! 
 * I will be presenting at [Finding Your Inner Modeler year 2 this month](https://pages.wustl.edu/haswell/finding-your-inner-modeler/fyim-ii)
