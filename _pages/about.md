@@ -15,6 +15,18 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### July ###
+* I'll be presenting a poster at the Carnegie Postdoctoral Association ECR conference that precedes Plant Biology 2019!
+* I'm starting work as a postdoc at [Danforth plant science center](https://www.danforthcenter.org/) in St Louis!
+* I defended my dissertation on 7/3, titled "Dynamical modeling in cell biology using ordinary differential equations". I talked about my work modeling split luciferase in vivo, estimating enzymatic parameters with a model (first time a method is developed!), modeling the plant cell cycle and endoreplication, and my TAR research project for [CIRTL](https://www.cirtl.net/)! 
+
+### June ###
+* I attended [FYIM year 3](https://kawai.phy.uab.edu/fyim3/), another great collaborative format!
+
+### May ###
+* My new paper on a method to determine enzymatic parameters using a math model is [published in Biochemistry](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.9b00272)! 
+* I attended the [Probability Meets Biology collaborative workshop](https://www.bath.ac.uk/events/probability-meets-biology/) at Bath University! It was fun and I learned a lot, a fan of this format!
+
 ### March ###
 * I will be leading my workshop [Mathematical Plant Biology: A Collaborative Session](https://web.cvent.com/event/5d8b3b79-86e5-4a7c-bdcc-32e46df1c2ed/websitePage:276b522d-4142-4f2b-89c2-5c1d6c15bbc8) at [Plant Biology 2019](https://plantbiology.aspb.org/)
 * I will be hosting my special session [Current Challenges in Mathematical Biology](https://drive.google.com/file/d/11LDmbNcjOWM0zFOcnzkR7En56_BeI6fh/view) att the Association for Women in Math [Research Symposium 2019](https://awm-math.org/meetings/awm-research-symposium/) next month 
