@@ -15,6 +15,9 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### August ###
+* I'll be leading a [collaborative workshop on Computational Plant Biology](https://networking.grok.lsu.edu/article.aspx?articleid=14555) at PB2019 in San Jose! If you can't attend, but want to be involved, head [here](https://networking.grok.lsu.edu/article.aspx?articleid=14555) to access the non-attendee survey! 
+
 ### July ###
 * I'll be presenting a poster at the Carnegie Postdoctoral Association ECR conference that precedes Plant Biology 2019!
 * I'm starting work as a postdoc at [Danforth plant science center](https://www.danforthcenter.org/) in St Louis!
