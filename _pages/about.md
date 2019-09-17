@@ -15,6 +15,9 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 
 
 ## Recent Activities ##
+### September ###
+* My website focusing on developing collaborative relationships between mathematicians and biologists is up in [its initial iteration](https://rdale.shinyapps.io/initmathbio). Feedback is greatly appreciated! You can join the database through the site. It's fully searchable, by keyword(s) or by your profile. 
+
 ### August ###
 * I'll be leading a [collaborative workshop on Computational Plant Biology](https://networking.grok.lsu.edu/article.aspx?articleid=14555) at PB2019 in San Jose! If you can't attend, but want to be involved, head [here](https://networking.grok.lsu.edu/article.aspx?articleid=14555) to access the non-attendee survey! 
 
