@@ -19,6 +19,18 @@ For my postdoc, I'm interested in using multi-scale dynamical models, probabilis
 I am also interested in [STEM education](https://rdale1.github.io/teaching/). I am particularly interested in making mathematical biology more accessible to experimentalists and the general public alike.
 
 ## Recent Activities ##
+### January ###
+* My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
+    dynamical mathematical models", was accepted! 
+* My paper "Modeling and analysis of the firefly luciferase reaction and a G-protein coupled receptor signaling pathway with ordinary differential equations increases self confidence in mathematical cell biology for novice graduate students" was accepted for publication in *Letters in Biomathematics*! That makes 11. 
+
+### December ###
+* I graduated from my PhD program! Now you must call me doctor.  
+* I've been developing a [searchable fellowship database](https://www.cientificolatino.com/searchable-fellowships) for Cientifico Latino! 
+
+### November ###
+* I've been developing a [stochastic simulation](https://rdale1.shinyapps.io/app_sept_12/) of genetic drift and selection using Hardy Weinberg's model! 
+
 ### September ###
 * My website focusing on developing collaborative relationships between mathematicians and biologists is up in [its initial iteration](https://rdale.shinyapps.io/initmathbio). Feedback is greatly appreciated! You can join the database through the site. It's fully searchable, by keyword(s) or by your profile. 
 
