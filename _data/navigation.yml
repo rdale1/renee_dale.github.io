@@ -15,7 +15,6 @@ main:
     
   - title: "IMB"
     url: /IMB/
-    redirect_to: https://rdale1.shinyapps.io/initmathbio/
  
   - title: "CV"
     url: /publications/cv.pdf
