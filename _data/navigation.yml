@@ -13,8 +13,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-    - title: "InitMathBiology"
-    url: https://rdale1.shinyapps.io/initmathbio/
+ 
   - title: "CV"
     url: /publications/cv.pdf
    
