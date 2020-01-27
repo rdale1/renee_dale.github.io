@@ -1,4 +1,11 @@
-## Recent Activities ##
+---
+permalink: /
+title: "Renee Dale, PhD"
+excerpt: "Recent Activities"
+author_profile: true
+redirect_from: /home/
+---
+
 ### January ###
 * My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
     dynamical mathematical models", was accepted! [Learn more here](https://iambecomecomputational.wordpress.com/2020/01/21/workshop-on-computational-plant-biology-at-pb2020-opportunities-for-participants/)
