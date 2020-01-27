@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-150295177-5"
 
 
 # Site Author
@@ -86,6 +86,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=TAaUf9wAAAAJ&hl=en"
   email            :
   uri              : "https://iambecomecomputational.wordpress.com/"
+  Blog             : "https://iambecomecomputational.wordpress.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -95,7 +96,7 @@ author:
   github           : "rdale1"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ultimate_algorithm_cyborg"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-1674-1247"
