@@ -1,21 +1,13 @@
 # main links links
 main:
-
-  - title: "About Me"
+  - title: "Recent Activities"
     url: /
     
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "About Me"
+    url: /about/
     
-  - title: "IMB"
-    url: /IMB/index.html
- 
   - title: "CV"
     url: /publications/cv.pdf
    
+  - title: "Blog"
+    redirect_to: https://iambecomecomputational.wordpress.com/
