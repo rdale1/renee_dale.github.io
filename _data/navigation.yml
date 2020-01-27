@@ -3,6 +3,7 @@ main:
 
   - title: "Home"
     url: /about/
+    
   - title: "Publications"
     url: /publications/
 
@@ -12,6 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+    - title: "InitMathBiology"
+    url: https://rdale1.shinyapps.io/initmathbio/
   - title: "CV"
     url: /publications/cv.pdf
    
