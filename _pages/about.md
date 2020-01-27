@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Current Research Interests"
+title: "Renee Dale, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,7 +22,7 @@ I am also interested in [STEM education](https://rdale1.github.io/teaching/). I 
 ## Recent Activities ##
 ### January ###
 * My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
-    dynamical mathematical models", was accepted! 
+    dynamical mathematical models", was accepted! [Learn more here](https://iambecomecomputational.wordpress.com/2020/01/21/workshop-on-computational-plant-biology-at-pb2020-opportunities-for-participants/)
 * My paper "Modeling and analysis of the firefly luciferase reaction and a G-protein coupled receptor signaling pathway with ordinary differential equations increases self confidence in mathematical cell biology for novice graduate students" was accepted for publication in *Letters in Biomathematics*! That makes 11. 
 
 ### December ###
