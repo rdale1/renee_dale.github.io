@@ -10,4 +10,5 @@ main:
     url: /publications/cv.pdf
    
   - title: "Blog"
+    url: /blog/
     redirect_to: https://iambecomecomputational.wordpress.com/
