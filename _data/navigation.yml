@@ -14,7 +14,6 @@ main:
     url: /teaching/    
     
   - title: "IMB"
-    url: /IMB/index.html
     redirect_to: https://rdale1.shinyapps.io/initmathbio/
  
   - title: "CV"
