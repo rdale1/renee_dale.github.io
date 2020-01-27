@@ -15,3 +15,5 @@ My research focus is modeling processes in cell biology using ordinary different
 For my postdoc, I'm interested in using multi-scale dynamical models, probabilistic processes, and diffusive processes to study how plants make decisions on the assignment of energy, as well as the genetics underlying plant above- and below-ground strategies. 
 
 I am also interested in [STEM education](https://rdale1.github.io/teaching/). I am particularly interested in making mathematical biology more accessible to experimentalists and the general public alike.
+
+Check out my [blog!](https://iambecomecomputational.wordpress.com/)
