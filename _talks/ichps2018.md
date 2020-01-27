@@ -5,5 +5,5 @@ type: "Talk"
 #permalink: /talks/ichps2018
 venue: " International Conference on Health Policy and Statistics 2018 "
 date: 2018-01-01
-location: "Charleston, North Carolina"
+location: "Charleston, North Carolina, USA"
 ---
