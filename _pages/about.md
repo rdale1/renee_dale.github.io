@@ -6,9 +6,10 @@ author_profile: true
 ---
 I am a Postdoctoral researcher at [Danforth Plant Science Center](https://www.danforthcenter.org/). I graduated from my PhD in December 2019, and am currently an MS candidate in Statistics at Louisiana State University. 
 
-My research focus is on understanding how components like genes and proteins form behavioral and dynamical networks to produce emergent properties in plants (phenotypes), particularly under drought and during development. This expands my PhD research from focusing on cellular processes to whole-plant, abstracted components and traits!
+My research focus is on understanding how components like genes and proteins form behavioral and dynamical networks to produce emergent properties in plants (phenotypes), particularly under drought and during development. This expands my PhD research from focusing on cellular processes to whole-plant, abstracted components and traits! I'm interested in using multi-scale dynamical models, probabilistic processes, and diffusive processes to study how plants make decisions on the assignment of energy, as well as the genetics underlying plant above- and below-ground strategies. 
 
-I'm interested in using multi-scale dynamical models, probabilistic processes, and diffusive processes to study how plants make decisions on the assignment of energy, as well as the genetics underlying plant above- and below-ground strategies. 
+![modeling image](Isolated.png "pretty")
+*Figure from a current project - trying to prepare for publication... *
 
 As a PhD student, I focused on modeling processes in cell biology using ordinary differential equations (ODEs). My dissertation work looks at the utility of mathematical modeling in biology: 
 * enhancing the interpretation of data given the underlying mechanism
