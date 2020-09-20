@@ -14,6 +14,7 @@ Been a few months....
 * I received a grant to develop an educational video game from ASPB! So excited to see this come to life, and hopefuly help others overcome math anxiety through seeing the magic of math!
 * Myself and Dr Amogh Jalihal have started an online [community for early-career modelers](https://amoghpj.github.io/modeling-and-beyond/). You can read more about our vision for this community on my blog: https://iambecomecomputational.com/2020/07/01/modeling-and-beyond/
 * The workshop continued to be held for the online PlantBiology meeting in late July. We found that an in-person format would be better for what we had planned (a little too many surveys). Check out the [materials and outline here.](https://www.initmathbio.com/pb2020-introduction-to-modeling/)
+* I've been developing a searchable database for [DivsersifyPlantScience!](https://rdale1.shinyapps.io/diversifyplantsci/)
 
 ### January ###
 * My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
