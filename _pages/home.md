@@ -8,13 +8,14 @@ redirect_from: /home/
 
 ## 2020 ##
 
-### September ###
-Been a few months.... 
+### February - September ###
+Been a few months since I updated, I think we all know why ... 
 * Collaborative incubator website [InitMathBio](https://initmathbio.com) is finally up! I never thought I'd actually complete it.. chalk it up to quarantine free time. More soon!
-* I received a grant to develop an educational video game from ASPB! So excited to see this come to life, and hopefuly help others overcome math anxiety through seeing the magic of math!
+* I received a grant to develop an educational video game from ASPB! So excited to see this come to life, and hopefuly help others overcome math anxiety through seeing the magic of math! Check out my interview on the [Danforth Center blog](https://www.danforthcenter.org/news/plant-science-meets-gaming-scientists-begin-developing-math-and-plant-biology-video-game/). I'll be doing my own writeup soon, maybe even with a demo!
 * Myself and Dr Amogh Jalihal have started an online [community for early-career modelers](https://amoghpj.github.io/modeling-and-beyond/). You can read more about our vision for this community on my blog: https://iambecomecomputational.com/2020/07/01/modeling-and-beyond/
 * The workshop continued to be held for the online PlantBiology meeting in late July. We found that an in-person format would be better for what we had planned (a little too many surveys). Check out the [materials and outline here.](https://www.initmathbio.com/pb2020-introduction-to-modeling/)
 * I've been developing a searchable database for [DivsersifyPlantScience!](https://rdale1.shinyapps.io/diversifyplantsci/)
+* I talked about one of my postdoctoral research projects at the PB2020 online meeting - [check out my abstract](https://www.eventscribe.com/2020/ASPB/fsPopup.asp?Mode=presInfo&PresentationID=742032) - I'm overly optimistic in my productivity, and hoping to have something out soon.... 
 
 ### January ###
 * My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
