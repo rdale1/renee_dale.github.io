@@ -13,8 +13,8 @@ main:
     redirect_to: "https://iambecomecomputational.com/"
     title: Blog
   - 
-    redirect_to: "https://amoghpj.github.io/modeling-and-beyond/"
     title: "Modeling and Beyond"
+    redirect_to: "https://amoghpj.github.io/modeling-and-beyond/"
   - 
-    redirect_to: "https://initmathbio.com"
     title: InitMathBio
+    redirect_to: "https://initmathbio.com"
