@@ -16,6 +16,8 @@ Been a few months since I updated, I think we all know why ...
 * The workshop continued to be held for the online PlantBiology meeting in late July. We found that an in-person format would be better for what we had planned (a little too many surveys). Check out the [materials and outline here.](https://www.initmathbio.com/pb2020-introduction-to-modeling/)
 * I've been developing a searchable database for [DivsersifyPlantScience!](https://rdale1.shinyapps.io/diversifyplantsci/)
 * I talked about one of my postdoctoral research projects at the PB2020 online meeting - [check out my abstract](https://www.eventscribe.com/2020/ASPB/fsPopup.asp?Mode=presInfo&PresentationID=742032) - I'm overly optimistic in my productivity, and hoping to have something out soon.... 
+* In March, right before lockdown, I attended the [QCB Cell Modeling Workshop](https://qcbnet.ucsf.edu/attendee-application-page-hackathon-vi) in California! I worked with the [soon-to-be Dr. Yan Gong](https://www.linkedin.com/in/yan-gong-0a51ba45) - although it was his first collaboration with a modeler, the communication was on point, and we nearly completed an entire model! Hope to share this work soon. 
+* At the same workshop, I also did another test-run of my collaborative matching program, this time on a very diverse group of modelers and experimentalists. We found that it did about as well as hand-matching, but significantly easier on the organizers. Hope to share a writeup and code on this soon. 
 
 ### January ###
 * My workshop for PB2020, "Discovering the rules of life through computational plant biology – utilizing
