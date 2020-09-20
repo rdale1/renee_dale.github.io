@@ -11,7 +11,7 @@ main:
    
   - title: "Blog"
     url: /blog/
-    redirect_to: https://iambecomecomputational.wordpress.com/
+    redirect_to: https://iambecomecomputational.com/
     
   - title: "Modeling and Beyond"
   url: /MaB/
