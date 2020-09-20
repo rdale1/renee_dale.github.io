@@ -1,19 +1,20 @@
 # main links links
-main:
-  - title: "Recent Activities"
+main: 
+  - 
+    title: "Recent Activities"
     url: /
-    
-  - title: "About Me"
+  - 
+    title: "About Me"
     url: /about/
-    
-  - title: "CV"
+  - 
+    title: CV
     url: /publications/cv.pdf
-   
-  - title: "Blog"
-    redirect_to: https://iambecomecomputational.com/
-    
-  - title: "Modeling and Beyond"
-  redirect_to: https://amoghpj.github.io/modeling-and-beyond/
-  
-  -title: "InitMathBio"
-  redirect_to: https://initmathbio.com
+  - 
+    redirect_to: "https://iambecomecomputational.com/"
+    title: Blog
+  - 
+    redirect_to: "https://amoghpj.github.io/modeling-and-beyond/"
+    title: "Modeling and Beyond"
+  - 
+    redirect_to: "https://initmathbio.com"
+    title: InitMathBio
