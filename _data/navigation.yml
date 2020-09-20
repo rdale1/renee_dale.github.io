@@ -10,13 +10,10 @@ main:
     url: /publications/cv.pdf
    
   - title: "Blog"
-    url: /blog/
     redirect_to: https://iambecomecomputational.com/
     
   - title: "Modeling and Beyond"
-  url: /MaB/
   redirect_to: https://amoghpj.github.io/modeling-and-beyond/
   
   -title: "InitMathBio"
-  url: /IMB/
   redirect_to: https://initmathbio.com
