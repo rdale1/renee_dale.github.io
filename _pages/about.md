@@ -4,9 +4,9 @@ title: "Renee Dale, PhD"
 excerpt: "About me"
 author_profile: true
 ---
-I am a Postdoctoral researcher at [Danforth Plant Science Center](https://www.danforthcenter.org/). I graduated from my PhD in December 2019, and am currently an MS candidate in Statistics at Louisiana State University. 
+I am a NSF Postdoctoral Fellow at [Danforth Plant Science Center](https://www.danforthcenter.org/). I graduated from my PhD in December 2019, and graduated my MS in Statistics in May 2021 (thanks to some pandemic delays). 
 
-My research focus is on understanding how components like genes and proteins form behavioral and dynamical networks to produce emergent properties in plants (phenotypes), particularly under drought and during development. This expands my PhD research from focusing on cellular processes to whole-plant, abstracted components and traits! I'm interested in using multi-scale dynamical models, probabilistic processes, and diffusive processes to study how plants make decisions on the assignment of energy, as well as the genetics underlying plant above- and below-ground strategies. 
+My research focuses on understanding the relationship between variability and plasticity in plants, and developmental decision-making. At the cellular and sub-cellular level, components like genes and proteins form behavioral and dynamical networks that produce emergent properties at higher levels of scale (phenotypes). We can understand what processes are plastic or inflexible by observing behaviors and phenotypes under different conditions, such as drought and during development. This work builds off my PhD research, which focused on cellular processes and enzyme kinetics. I use mathematical modeling, probabilistic, and data-science techniques. (For some background on modeling techniques in plant biology, check out this [review](https://osf.io/jfdb9/).)
 
 As a PhD student, I focused on modeling processes in cell biology using ordinary differential equations (ODEs). My dissertation work looks at the utility of mathematical modeling in biology: 
 * enhancing the interpretation of data given the underlying mechanism
