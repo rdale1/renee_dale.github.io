@@ -5,6 +5,12 @@ excerpt: "Recent Activities"
 author_profile: true
 redirect_from: /home/
 ---
+## 2021 ##
+Proving challenging to keep this updated throughout the pandemic!
+### -> May ###
+* Big news - I received an [NSF Postdoctoral Fellowship](https://nsf.gov/awardsearch/showAward?AWD_ID=2109790)! I will be studying the relationship between mathematical modeling parametric variability and phenotypic plasticity. 
+*  New preprint: [Overcoming the challenges to enhancing experimental plant biology with computational modeling](https://osf.io/jfdb9/)! Will be published soon. This was my first time leading a review, and it was both challenging and rewarding to work with so many people at once. Many of the authors are involved in the Modeling and Beyond community too. 
+*  I received an Education and Outreach grant from the [Society for Mathematical Biology](https://www.smb.org/) to develop another educational video game! This has a similar theme as the larger game I am developing with the ASPB funds, but highlights different concepts. Will be debuting this summer!
 
 ## 2020 ##
 
